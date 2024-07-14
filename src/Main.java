@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Сумма трат за месяц составила " + sum + " рублей");
 
 
-        System.out.println("Задача 2.");
+        System.out.println("Задача 2./");
 
     int[] expensesOne = {5000, 10000, 15000, 20000, 25000};
     int max = expensesOne[0];
